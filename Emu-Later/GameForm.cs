@@ -20,7 +20,7 @@ namespace EmuLater
         {
             InitializeComponent();
             core = new Chip8Core();
-            core.LoadROM(@"D:\chip8asm\MyAssembly.ch8");
+            core.LoadROM("Chip8/c8games/INVADERS");
         }
 
         void OnApplicationEnterIdle(object sender, EventArgs e)
