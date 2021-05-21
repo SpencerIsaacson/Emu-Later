@@ -1,0 +1,143 @@
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\icon.ico
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\15PUZZLE
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\BLINKY
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\BLITZ
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\BRIX
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\CONNECT4
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\GUESS
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\HIDDEN
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\INVADERS
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\KALEID
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\MAZE
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\MERLIN
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\MISSILE
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\PONG
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\PONG2
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\PUZZLE
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\SYZYGY
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\TANK
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\TETRIS
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\TICTAC
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\UFO
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\VBRIX
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\VERS
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\WIPEOFF
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8\c8games\Happy.c8
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8Emulator.exe.config
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8Emulator.exe
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\bin\Debug\Chip8Emulator.pdb
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Emu-Later.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Chip8Emulator.GameForm.resources
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Chip8Emulator.Properties.Resources.resources
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Emu-Later.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Emu-Later.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Chip8Emulator.exe
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Chip8Emulator\Chip8Emulator\obj\Debug\Chip8Emulator.pdb
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\icon.ico
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\15PUZZLE
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\BLINKY
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\BLITZ
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\BRIX
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\CONNECT4
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\GUESS
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\HIDDEN
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\INVADERS
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\KALEID
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\MAZE
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\MERLIN
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\MISSILE
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\PONG
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\PONG2
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\PUZZLE
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\SYZYGY
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\TANK
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\TETRIS
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\TICTAC
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\UFO
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\VBRIX
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\VERS
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\WIPEOFF
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\Happy.c8
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Emu-Later.exe.config
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Emu-Later.exe
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\bin\Debug\Emu-Later.pdb
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\obj\Debug\EmuLater.GameForm.resources
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\obj\Debug\Chip8Emulator.Properties.Resources.resources
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.exe
+C:\Users\Spencer\Documents\Visual Studio 2015\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.pdb
+C:\Users\Spencer\Documents\Emu-Later\Emu-Later\bin\Debug\Emu-Later.exe.config
+C:\Users\Spencer\Documents\Emu-Later\Emu-Later\obj\Debug\Emu-Later.exe
+C:\Users\Spencer\Documents\Emu-Later\Emu-Later\obj\Debug\Emu-Later.pdb
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\icon.ico
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\15PUZZLE
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\BLINKY
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\BLITZ
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\BRIX
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\CONNECT4
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\GUESS
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\HIDDEN
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\INVADERS
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\KALEID
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\MAZE
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\MERLIN
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\MISSILE
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\PONG
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\PONG2
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\PUZZLE
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\SYZYGY
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\TANK
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\TETRIS
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\TICTAC
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\UFO
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\VBRIX
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\VERS
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\WIPEOFF
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\Happy.c8
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Emu-Later.exe.config
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Emu-Later.exe
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Emu-Later.pdb
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.csprojAssemblyReference.cache
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\EmuLater.GameForm.resources
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Chip8Emulator.Properties.Resources.resources
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.csproj.GenerateResource.cache
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.exe
+C:\Users\Spencer\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.pdb
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\icon.ico
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\15PUZZLE
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\BLINKY
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\BLITZ
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\BRIX
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\CONNECT4
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\GUESS
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\HIDDEN
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\INVADERS
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\KALEID
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\MAZE
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\MERLIN
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\MISSILE
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\PONG
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\PONG2
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\PUZZLE
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\SYZYGY
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\TANK
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\TETRIS
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\TICTAC
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\UFO
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\VBRIX
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\VERS
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\WIPEOFF
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Chip8\c8games\Happy.c8
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Emu-Later.exe.config
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Emu-Later.exe
+D:\Documents\Projects\Emu-Later\Emu-Later\bin\Debug\Emu-Later.pdb
+D:\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.csprojAssemblyReference.cache
+D:\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\EmuLater.GameForm.resources
+D:\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Chip8Emulator.Properties.Resources.resources
+D:\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.csproj.GenerateResource.cache
+D:\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.exe
+D:\Documents\Projects\Emu-Later\Emu-Later\obj\Debug\Emu-Later.pdb

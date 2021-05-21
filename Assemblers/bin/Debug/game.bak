@@ -1,0 +1,641 @@
+jump 0x225
+ser v3 v5
+snei v1 67
+snei v5 32
+snei v9 78
+invalid
+snei v4 69
+invalid
+call 0x76
+sei v0 46
+sei v9 32
+snei v2 121
+call 0x44
+movi v1 118
+movi v9 100
+call 0x57
+snei v9 78
+invalid
+ser v2 v6
+RCA 0x61
+RCA 0x62
+RCA 0x8A3
+draw v3 vD 0
+jump 0x871
+RCA 0x8F2
+jump 0xE31
+call 0x12
+call 0xD70
+RCA 0x861
+RCA 0x30
+snei v0 18
+call 0xD69
+RCA 0x56C
+jump 0x56E
+RCA 0x23
+movr v7 v6
+RCA 0xAF0
+jump 0x5F0
+RCA 0x730
+RCA 0x12
+snei vB 35
+left_shift v7 v7
+RCA 0x112
+snei v5 102
+RCA 0x68
+jump 0xC69
+RCA 0x6A
+RCA 0x46B
+RCA 0xA6C
+RCA 0x46D
+sei vC 110
+RCA 0xF00
+todo
+movi vB 35
+snei v7 253
+jump 0x560
+cls
+invalid
+addi vD 35
+movi vB 56
+RCA 0x78
+todo
+movi vB 96
+cls
+invalid
+xor vB v2
+movi vB 56
+sei v9 120
+RCA 0x123
+movi vB 54
+RCA 0x12
+sner vF v6
+cls
+invalid
+todo
+RCA 0x165
+jump 0xB84
+xor v0 vA
+rand vF 212
+invalid
+rand vF 212
+invalid
+todo
+todo
+set_i 0xD66
+RCA 0x12
+todo
+invalid
+RCA 0x112
+todo
+invalid
+RCA 0x83
+snei v0 115
+RCA 0x383
+goto_offset 0x562
+todo
+call 0x262
+RCA 0x833
+RCA 0x12
+rand v9 35
+addi v3 130
+RCA 0x643
+RCA 0x812
+draw v3 v3 3
+jump 0x12
+draw v5 v2 3
+addi v3 130
+RCA 0x633
+jump 0x812
+draw vD v2 3
+addi v3 130
+RCA 0x643
+call 0x12
+todo
+call 0x812
+todo
+addi v3 62
+RCA 0x13
+RCA 0x779
+RCA 0x649
+jump 0x869
+RCA 0x6A
+RCA 0x46B
+RCA 0xA6C
+RCA 0x47D
+todo
+RCA 0xF00
+todo
+snei v7 35
+movi vB 253
+jump 0x512
+movi vF 247
+RCA 0x737
+RCA 0x12
+movi vF 253
+jump 0x523
+snei v7 139
+set_i 0x43B
+jump 0x213
+jump 0xB7C
+RCA 0x26A
+todo
+RCA 0x213
+call 0x37C
+RCA 0x26A
+RCA 0x423
+snei v7 60
+jump 0x812
+movi vF 0
+todo
+draw v3 v6 0
+jump 0x461
+RCA 0x862
+RCA 0xFD0
+jump 0xF70
+RCA 0x8F2
+jump 0xE30
+call 0xC13
+sei v3 240
+RCA 0xA00
+todo
+todo
+movi v5 18
+call 0x5A3
+goto_offset 0x7F9
+jump 0xE61
+RCA 0x823
+invalid
+RCA 0x623
+invalid
+RCA 0x623
+invalid
+RCA 0x623
+invalid
+draw v0 v0 0
+todo
+todo
+jump 0x230
+RCA 0xDB
+rand v6 123
+RCA 0xC00
+todo
+rand vF 96
+jump 0xCD8
+RCA 0x400
+todo
+snei v7 142
+call 0x323
+snei v7 96
+RCA 0x5F0
+jump 0x8F0
+jump 0x5F0
+RCA 0x730
+RCA 0x13
+addi vF 0
+todo
+RCA 0x8D
+todo
+cls
+set_i 0x112
+invalid
+RCA 0x2FD
+jump 0xEF0
+movi v5 48
+todo
+set_i 0x56A
+RCA 0x6B
+RCA 0x46D
+RCA 0x16E
+RCA 0x113
+x_min_y vD vA
+RCA 0xF0
+jump 0xEDB
+rand v6 123
+RCA 0x87D
+RCA 0x17A
+RCA 0x13A
+RCA 0x713
+movr vD v0
+todo
+addi vE 255
+todo
+invalid
+todo
+call 0x424
+todo
+todo
+sei vC 126
+draw vB v8 1
+snei v2 60
+addi vE 255
+draw vB v1 0
+sei v8 124
+todo
+RCA 0x7F
+RCA 0x3F
+RCA 0x7F
+RCA 0x0
+RCA 0x1
+RCA 0x101
+RCA 0x303
+RCA 0x303
+RCA 0x0
+sei vF 32
+call 0x20
+call 0x20
+call 0x20
+call 0x3F
+RCA 0x808
+todo
+RCA 0xFE
+RCA 0xFC
+RCA 0xFE
+RCA 0x0
+RCA 0x7E
+snei v2 66
+movi v2 98
+movi v2 98
+RCA 0x0
+todo
+RCA 0x0
+RCA 0x0
+RCA 0x0
+RCA 0xFF
+RCA 0x0
+todo
+addi vD 0
+snei v1 125
+RCA 0x57D
+addi vD 0
+RCA 0xC2
+rand v2 198
+snei v4 108
+call 0x838
+RCA 0x0
+todo
+RCA 0x0
+RCA 0x0
+RCA 0x0
+RCA 0xFF
+RCA 0x0
+todo
+todo
+jump 0x4F7
+todo
+RCA 0x400
+RCA 0x7C
+snei v4 254
+rand v2 194
+rand v2 194
+RCA 0x0
+todo
+RCA 0x0
+RCA 0x0
+RCA 0x0
+RCA 0xFF
+RCA 0x0
+todo
+todo
+call 0x8E8
+todo
+call 0xF00
+RCA 0xF9
+x_min_y v5 vC
+rand v5 197
+rand v5 249
+RCA 0x0
+todo
+RCA 0x0
+RCA 0x0
+RCA 0x0
+RCA 0xFF
+RCA 0x0
+todo
+goto_offset 0xE00
+call 0x30
+call 0xBE
+goto_offset 0xE00
+RCA 0xF7
+cls
+x_min_y v5 v8
+addr v4 vF
+RCA 0x0
+todo
+RCA 0x0
+RCA 0x0
+RCA 0x0
+RCA 0xFF
+RCA 0x0
+todo
+RCA 0x7F
+RCA 0x3F
+RCA 0x7F
+RCA 0x0
+cls
+call 0x8EF
+cls
+movi v0 111
+RCA 0x0
+todo
+RCA 0x0
+RCA 0x0
+RCA 0x0
+RCA 0xFF
+RCA 0x0
+todo
+RCA 0xFE
+RCA 0xFC
+RCA 0xFE
+RCA 0x0
+RCA 0xC0
+RCA 0xC0
+rand v0 192
+rand v0 192
+RCA 0x0
+todo
+RCA 0x404
+RCA 0x404
+RCA 0x404
+RCA 0x4FC
+jump 0x10
+todo
+invalid
+invalid
+invalid
+RCA 0xFA
+invalid
+invalid
+invalid
+todo
+call 0x5F4
+sei v4 52
+sei v4 0
+jump 0x714
+sei v4 55
+sei v6 38
+rand v7 223
+ser v0 v5
+invalid
+draw v8 vD 15
+RCA 0xDF
+jump 0x11F
+jump 0x21B
+jump 0x9D9
+addi vC 68
+todo
+right_shift v6 v8
+todo
+todo
+left_shift v2 vF
+todo
+rand v0 192
+rand v0 254
+todo
+rand v2 194
+rand v2 252
+todo
+todo
+rand v0 254
+todo
+todo
+rand v0 192
+todo
+goto_offset 0xE86
+left_shift v6 vF
+right_shift v6 v8
+todo
+right_shift v6 v8
+jump 0x10
+jump 0x10
+jump 0x10
+jump 0x818
+jump 0x848
+snei v8 120
+sner vC v9
+goto_offset 0xC0
+goto_offset 0x9C
+movr v0 v8
+rand v0 192
+rand v0 254
+todo
+invalid
+right_shift v6 v8
+todo
+right_shift v6 v8
+right_shift v6 v8
+addi vC 130
+right_shift v6 v8
+invalid
+todo
+todo
+rand v0 192
+addi vC 130
+rand v2 202
+rand v4 122
+todo
+todo
+invalid
+todo
+todo
+RCA 0x2FE
+todo
+sei v0 48
+sei v0 48
+and v2 v8
+rand v2 194
+rand v2 254
+and v2 v8
+left_shift v2 vE
+sei v8 16
+right_shift v6 v8
+invalid
+invalid
+addr v2 v4
+sei v8 56
+snei v4 130
+and v2 v8
+todo
+sei v0 48
+todo
+jump 0xEF0
+left_shift v0 vF
+RCA 0x0
+RCA 0x0
+RCA 0x606
+RCA 0x0
+RCA 0x60
+movi v0 192
+RCA 0x0
+RCA 0x0
+RCA 0x0
+jump 0x818
+jump 0x818
+RCA 0x18
+addi vC 198
+RCA 0xC18
+RCA 0x18
+RCA 0x0
+todo
+RCA 0x0
+todo
+right_shift v6 v8
+left_shift v6 vF
+RCA 0x808
+RCA 0x818
+jump 0x818
+todo
+todo
+rand v0 254
+todo
+jump 0xE06
+RCA 0x6FE
+addr v4 vC
+rand v4 254
+RCA 0x404
+todo
+todo
+RCA 0x6FE
+rand v0 192
+rand v0 254
+left_shift v2 vF
+todo
+RCA 0x206
+RCA 0x606
+addi vC 68
+todo
+left_shift v6 vF
+todo
+todo
+RCA 0x606
+snei v4 254
+snei v4 68
+todo
+set_i 0x8A8
+set_i 0x8A8
+set_i 0x8A8
+set_i 0x86C
+ser vA v0
+RCA 0xC18
+set_i 0x830
+snei vE 126
+RCA 0x12
+jump 0x866
+movi vC 168
+invalid
+invalid
+movi v6 0
+snei v8 72
+jump 0x812
+set_i 0x806
+invalid
+jump 0x200
+addi vE 48
+jump 0x2A8
+movr v4 v3
+snei vE 114
+jump 0x866
+set_i 0x8A8
+set_i 0x8A8
+set_i 0x8A8
+invalid
+addi v8 168
+snei v8 120
+movi vC 114
+set_i 0x812
+jump 0x86C
+addi v2 102
+ser v4 v9
+set_i 0x872
+call 0xA18
+set_i 0x830
+snei vE 126
+RCA 0x12
+jump 0x866
+movi vC 168
+addi v2 84
+set_i 0x85A
+movi v6 24
+addi vE 24
+snei vE 114
+set_i 0x872
+call 0xA18
+sei v0 102
+set_i 0x830
+snei vE 126
+RCA 0x6C
+sei v0 84
+snei vE 156
+set_i 0x8A8
+set_i 0x8A8
+set_i 0x8A8
+set_i 0x848
+invalid
+jump 0x8A8
+invalid
+addi v8 102
+set_i 0x86C
+call 0xA30
+invalid
+movr v4 v3
+addi v2 42
+set_i 0x8D8
+set_i 0x800
+snei vE 18
+set_i 0x8E4
+set_i 0x2A8
+RCA 0x4E
+jump 0x2A8
+movi vC 42
+invalid
+addi v2 168
+movr v4 v3
+addi v2 42
+set_i 0x8DE
+invalid
+addi v2 42
+jump 0x8A8
+RCA 0xC54
+snei v8 90
+addi v8 114
+jump 0x866
+set_i 0x872
+jump 0x842
+snei v2 108
+set_i 0x872
+call 0xA00
+addi v2 168
+addi v2 42
+jump 0x8A8
+sei v0 78
+addi vE 0
+jump 0x218
+movi v6 108
+set_i 0x830
+snei vE 12
+movi v6 24
+RCA 0x6C
+jump 0x8A8
+addi v2 42
+jump 0x830
+movi v6 168
+jump 0xE54
+movi v6 12
+jump 0x89C
+set_i 0x824
+invalid
+jump 0x2A8
+snei v2 120
+RCA 0xC3C
+set_i 0x8AE
+set_i 0x8A8
+set_i 0x8A8
+set_i 0x8A8
+set_i 0x8FF
+RCA 0x0
+RCA 0x0
+RCA 0x0
+RCA 0x0
+RCA 0x0
+RCA 0x0
+RCA 0x0
